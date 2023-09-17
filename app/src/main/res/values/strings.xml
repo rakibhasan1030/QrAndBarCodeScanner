@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QrAndBarCodeScanner</string>
+    <string name="camera_permission_dialog_box_title">Camera Permission Required</string>
+    <string name="camera_permission_dialog_box_message">Without accessing the camera, it is not possible to scan QR CODES</string>
+    <string name="camera_permission_dialog_positive_button_text">Allow Camera</string>
+    <string name="camera_permission_dialog_negetive_button_text">Cancel</string>
+</resources>
